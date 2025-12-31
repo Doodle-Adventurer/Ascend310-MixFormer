@@ -1,3 +1,5 @@
+结果：https://www.bilibili.com/video/BV1eNiuBqEzU/?share_source=copy_web&vd_source=63497f9c7f80d82f248f8a87e5f173d2
+
 当前板卡为Ascend310，CANN版本为CANN-6.3.RC2.alpha003
 
 项目cmake链接可自己调整
