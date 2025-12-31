@@ -1,4 +1,5 @@
 当前板卡为Ascend310，CANN版本为CANN-6.3.RC2.alpha003
+
 项目cmake链接可自己调整
 
 注：切换不同的板卡需要重新转换模型，即onnx转为om
