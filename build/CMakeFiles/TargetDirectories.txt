@@ -1,0 +1,3 @@
+/home/HwHiAiUser/ide_daemon/MixformerV2/build/CMakeFiles/rebuild_cache.dir
+/home/HwHiAiUser/ide_daemon/MixformerV2/build/CMakeFiles/main.dir
+/home/HwHiAiUser/ide_daemon/MixformerV2/build/CMakeFiles/edit_cache.dir
